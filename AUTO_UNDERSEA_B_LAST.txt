@@ -1,22 +1,3 @@
-local break_sj = false
-local item_world = "..."
-local item_world_id = "..."
-local other_items_world = "..."
-local other_items_world_id = "..."
-local water_save_world = "..."
-local water_save_world_id = "..."
-local WebhookUrl = "..."
-local trash_list = {1536,850,8252,8254,5040,5024,5026,5028,5030,5038,8254,8255,8253,5038}
-local save_list = {1522,1523,846,847,1520,1521,832,3922,5039,833,1537,851,1538,1539,1530,1531,1528,1529,1524,1526,1518}
-
-
-
-
-
-
-
-------------------------------DO NOT TOUCH HERE------------------------------
-
 local app = "lucifer" --koftrfarm yada lucifer
 local su_fiyat = 1 / 200
 local eski_worldi_yapion = false
